@@ -9,10 +9,19 @@ Today, internet and social media have become the fastest and easiest ways to get
 # DATA SET
 The dataset is from UCI datasets The file we are using contains a collection of more than 5 thousand SMS phone messages
 
-STEPS INCLUDED:
+# STEPS INCLUDED
 
 1. Exploratory Data analysis and Data Visualization
 2. Text Pre-Processing
 3. Vectorization (vectorization is the process of converting text to numerical entries in a matrix form)
 4. Model Training and Prediction [Naive Bayes Classifier, SVC, RandomForest, Logistic Regression]
 5. Model Evaluation
+
+# RESULT
+1. Acheived 96.59% accuracy using Logistic Regression
+2. Acheived 96.65% accuracy using Naive Bayes(Multinomial-NB)
+3. Acheived 98.38% accuracy using Support Vector Machine
+4. Acheived 97.60% accuracy using RandomnForest
+
+# CONCLUSION
+Out of the classifier, Support Vector Machine performed well in classification of spam e-mails

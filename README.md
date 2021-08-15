@@ -13,6 +13,6 @@ STEPS INCLUDED:
 
 1. Exploratory Data analysis and Data Visualization
 2. Text Pre-Processing
-3. Vectorization
+3. Vectorization (vectorization is the process of converting text to numerical entries in a matrix form)
 4. Model Training and Prediction [Naive Bayes Classifier, SVC, RandomForest, Logistic Regression]
 5. Model Evaluation

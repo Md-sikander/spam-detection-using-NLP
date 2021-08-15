@@ -1,6 +1,6 @@
 # spam-detection-using-NLP
 
-##Spam detection filter using NLP(Natural Language Processing) and classifier includes Logistic Regression, Naive Bayes, SVC , RandomForest
+Spam detection filter using NLP(Natural Language Processing) and classifier includes Logistic Regression, Naive Bayes, SVC , RandomForest
 
 
 

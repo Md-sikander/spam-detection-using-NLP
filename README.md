@@ -24,4 +24,4 @@ The dataset is from UCI datasets The file we are using contains a collection of 
 4. Acheived 97.60% accuracy using RandomnForest
 
 # CONCLUSION
-Out of the classifier, Support Vector Machine performed well in classification of spam e-mails
+Out of all the classifier, Support Vector Machine performed well in classification of spam e-mails
